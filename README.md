@@ -1,4 +1,4 @@
-# OWASP Top-10
+# Broken-Access-Control
 
 ## Warning
 
@@ -14,7 +14,7 @@ Do not run any of them on a machine which can be accessed by external users.
 
 Clone the repository:
 ```
-git clone https://github.com/mureinik/owasp-top10-demo.git
+git clone https://github.com/hoailuong123/Broken-Access-Control.git
 ```
 
 Install the dependencies:
